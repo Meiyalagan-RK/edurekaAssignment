@@ -1,0 +1,151 @@
+body{
+    font-family: poppins;
+    
+}
+main{
+    color: #192F60;
+}
+
+a{
+    text-decoration: none;
+}
+ul li{
+list-style: none;
+}
+
+header{
+    position: relative;
+    background-color:#CE0505 ;
+    width: 1366px;
+    height: 80px;
+    
+}
+
+.logo{
+    position: absolute;
+    background-color: white; 
+    text-decoration: none;
+    color:#CE0505 ;
+    top: 13px;
+    left: 112px;
+    font-size: 33px;
+    font-weight: bold;
+    padding: 6px 15px;
+    border-radius: 50%;
+   
+
+}
+
+
+.create-act{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    right: 100px;
+    top: 17px;
+    bottom: 17px;
+    padding: 10px;
+    border: white solid 1px;
+    border-radius: 5px;
+}
+
+.login{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    right:308px;
+    top: 29px;
+    bottom: 29px;
+}
+
+
+.title-text{
+    position: relative;
+    text-align: left;
+    font-size: 36px;  
+    font-weight: bolder;
+    color: #192F60;
+    margin: 50px;
+}
+
+.article1{
+    margin-left:100px;
+    padding: 20px;
+    text-align: left;
+    height: 682px;
+    width:260px;
+    box-shadow: 0px 3px 6px #00000029;
+}
+/* selection form-select location */
+.form-select{
+    margin: 3%;
+    padding: 3%;
+    width: 208px;
+    height: 35;
+    border: 1px solid #8C96AB;
+    border-radius: 3px;
+    font-family: poppins;
+}
+
+.article2{
+    position: absolute;
+    margin: 10px;
+    padding: 1%;
+    left: 418px;
+    top: 240px;
+    height:291px;
+    width:794px;
+    box-shadow: 0px 3px 10px #00000029;
+}
+.article3{
+    position: absolute;
+    margin: 10px;
+    padding: 1%;
+    left: 418px;
+    top: 620px;
+    height:291px;
+    width:794px;
+    box-shadow: 0px 3px 6px #00000029;
+}
+
+
+
+
+/* meal-type */
+.image-left{
+    float: left;
+    width: 30%;
+    margin: 10px;
+}
+.image-left img{
+    height: 230px;
+    width: 100%;
+}
+
+.content-right{
+    margin-left: 5%;
+
+}
+
+.content-bottom{
+    display: block;
+
+}
+
+
+/* 1,2,3 list */
+.navigate{
+margin-top: 20px;
+margin-left: 180px;
+margin-bottom: 50px;
+}
+.navigation-list{
+color: #8C96AB;
+float: left;
+border: 1px solid rgb(162, 199, 222);
+border-radius: 10px;
+margin-left: 30px;
+padding: 10px;
+margin-bottom: 100px;
+box-shadow: 2px 5px 3px #00000029;
+}
